@@ -1,0 +1,43 @@
+m101 2 simple example-DQBXCsjeO5c.mp4
+m101 3 simple example-Nt0cQI86G40.mp4
+m101 10 compound ids-zoN4cj_XQzY.mp4
+m101 11 agg expressions-L4G14MTfTgQ.mp4
+m101 12 agg expressions-kJ0k2na4ukU.mp4
+m101 13 using sum-93MSz3uDC1A.mp4
+m101 14 using sum-ATO_s_Ah08o.mp4
+m101 15 using avg-baIDZ-M5j7w.mp4
+m101 16 using avg-tT6Jx8s9dTc.mp4
+m101 17 addToSet-YzURaZnKI9s.mp4
+m101 18 addToSet-zGcTxUQuLGE.mp4
+m101 19 using push-LQcBM-g0ACY.mp4
+m101 20 using push-hFqDvVXtm6E.mp4
+m101 21 using max-BYoNX4trjOQ.mp4
+m101 22 using max-sHCdOiCispA.mp4
+m101 23 double grouping-EIWF9Oxeb8M.mp4
+m101 24 double grouping-J-asAAEHJ0Q.mp4
+m101 25 using project-TbQ2PI5Fib0.mp4
+m101 26 using project-IGN0lXg-kJ0.mp4
+$match-7RtHG90Hrbw.mp4
+m101 28 match-CHGiumXE-pU.mp4
+$text-LpDSge_GbpI.mp4
+$text answer-n7VzyQpZAAw.mp4
+m101 29 sort-HUEtV7omSb8.mp4
+m101 30 sort--cghyd6AHHA.mp4
+m101 31 skip limit-o5hzYKXUyrU.mp4
+m101 32 skip limit-joRw-fqCIWA.mp4
+m101 33 first and last-JOdAnxVAMwc.mp4
+m101 34 first and last-WBWb0ssDVeY.mp4
+m101 35 unwind-E4aYOQPeQvI.mp4
+m101 36 unwind-Xfl3m7wz8ts.mp4
+m101 37 unwind example-U_4Enh2TTp4.mp4
+m101 38 unwind example-jAWL-BJD0tI.mp4
+m101 39 double unwind-YXGL27217B8.mp4
+m101 40 double unwind-pziFq1oVRI4.mp4
+$out-b1dfUSrTPto.mp4
+aggregation options-0CGNVacCrY8.mp4
+aggregation options answer-z0X6jRnpaJI.mp4
+python and aggregation-GqdcFE6kNBs.mp4
+python and aggregation answer-z1XiFcfEVDw.mp4
+m101 41 sql mapping-auL2R0XKlyM.mp4
+m101 42 sql examples-ep2gLSR6C0U.mp4
+limitations of aggregation-U_gRSxEq3c0.mp4
